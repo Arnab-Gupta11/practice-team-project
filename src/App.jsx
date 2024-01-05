@@ -5,6 +5,7 @@ function App() {
     <>
       <div>
         <h2>hello world</h2>
+        <p>This is my team project.</p>
       </div>
     </>
   );
