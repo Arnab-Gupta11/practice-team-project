@@ -1,4 +1,5 @@
 import "./App.css";
+import Test from "./components/Test";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
         {/* new branch */}
         <h1>Arnab Gupta</h1>
         <p>This is my team project.</p>
+        <Test />
       </div>
     </>
   );
