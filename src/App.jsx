@@ -10,6 +10,7 @@ function App() {
         <h1>Arnab Gupta</h1>
         <p>This is my team project.</p>
         <Home></Home>
+        <p>Final merge</p>
       </div>
     </>
   );
